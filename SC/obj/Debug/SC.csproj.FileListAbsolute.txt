@@ -1,0 +1,60 @@
+D:\SITECORE\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
+D:\SITECORE\SC\bin\SC.dll.config
+D:\SITECORE\SC\bin\SC.dll
+D:\SITECORE\SC\bin\SC.pdb
+D:\SITECORE\SC\bin\Domain.dll
+D:\SITECORE\SC\bin\EntityFramework.dll
+D:\SITECORE\SC\bin\EntityFramework.SqlServer.dll
+D:\SITECORE\SC\bin\System.Web.Helpers.dll
+D:\SITECORE\SC\bin\System.Web.Mvc.dll
+D:\SITECORE\SC\bin\System.Web.Razor.dll
+D:\SITECORE\SC\bin\System.Web.Webpages.Deployment.dll
+D:\SITECORE\SC\bin\System.Web.Webpages.dll
+D:\SITECORE\SC\bin\System.Web.Webpages.Razor.dll
+D:\SITECORE\SC\bin\Domain.pdb
+D:\SITECORE\SC\bin\EntityFramework.xml
+D:\SITECORE\SC\bin\EntityFramework.SqlServer.xml
+D:\SITECORE\SC\bin\System.Web.Razor.xml
+D:\SITECORE\SC\bin\System.Web.Webpages.xml
+D:\SITECORE\SC\bin\System.Web.Webpages.Deployment.xml
+D:\SITECORE\SC\bin\System.Web.Webpages.Razor.xml
+D:\SITECORE\SC\bin\System.Web.Helpers.xml
+D:\SITECORE\SC\bin\System.Web.Mvc.xml
+D:\SITECORE\SC\bin\ru\System.Web.Razor.resources.dll
+D:\SITECORE\SC\bin\ru\System.Web.Webpages.resources.dll
+D:\SITECORE\SC\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\SITECORE\SC\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\SITECORE\SC\bin\ru\System.Web.Helpers.resources.dll
+D:\SITECORE\SC\bin\ru\System.Web.Mvc.resources.dll
+D:\SITECORE\SC\obj\Debug\SC.dll
+D:\SITECORE\SC\obj\Debug\SC.pdb
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\SC.dll.config
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\SC.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\SC.pdb
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\Domain.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\EntityFramework.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\EntityFramework.SqlServer.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Helpers.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Mvc.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Razor.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Webpages.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\Domain.pdb
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\EntityFramework.xml
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\EntityFramework.SqlServer.xml
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Razor.xml
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Webpages.xml
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Helpers.xml
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\System.Web.Mvc.xml
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\obj\Debug\SC.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\SC\obj\Debug\SC.pdb

@@ -1,0 +1,32 @@
+﻿@using Domain.Entities
+@model Autor
+@{
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="/Content/bootstrap.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>FindAutor</title>
+</head>
+<body>
+    
+    <ol class="breadcrumb">
+        <li><a href="Index">Main</a></li>
+        <li><a href="/Home/ShowAutors/">Авторы</a></li>
+        <li class="active">Книги автора</li>
+    </ol>
+       <h1 class="head">@Model.Name @Model.LastName</h1>
+
+    @foreach (Book b in Model.Books)
+    {
+        <div class="alert alert-success" >@b.Title</div>
+    }
+
+
+    <script src="Scripts/bootstrap.js"></script>
+</body>
+</html>

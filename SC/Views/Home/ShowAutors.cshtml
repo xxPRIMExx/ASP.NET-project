@@ -1,0 +1,37 @@
+﻿@using Domain.Entities
+@model IEnumerable<Autor>
+@{
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="/Content/bootstrap.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+    <ol class="breadcrumb">
+    <li><a href="Index">Main</a></li>
+    <li class="active"><a href="~/Views/Home/ShowAutors.cshtml"></a>Авторы</li>
+    </ol>
+    <h1 class="head">Авторы</h1>
+
+        <div class="div-list">
+            @foreach (var a in Model)
+            {
+                <div class="list-group" width="20">
+
+                    <a href="/Home/FindAutor/@a.Id" class="list-group-item list-group-item-warning">
+                        @a.Id  - @a.Name @a.LastName
+                    </a>
+                </div>
+            }
+        </div>
+
+    <div class="link">@Html.ActionLink("Добавить книгу", "AddBookByAuthor")</div>
+        <script src="Scripts/bootstrap.js"></script>
+        <script src="Scripts/jquery-3.1.1.js"></script>
+    </body>
+</html>

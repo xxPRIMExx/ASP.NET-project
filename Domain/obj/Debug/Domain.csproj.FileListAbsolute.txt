@@ -1,0 +1,19 @@
+D:\SITECORE\Domain\bin\Debug\Domain.dll.config
+D:\SITECORE\Domain\bin\Debug\Domain.dll
+D:\SITECORE\Domain\bin\Debug\Domain.pdb
+D:\SITECORE\Domain\bin\Debug\EntityFramework.dll
+D:\SITECORE\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\SITECORE\Domain\bin\Debug\EntityFramework.xml
+D:\SITECORE\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\SITECORE\Domain\obj\Debug\Domain.dll
+D:\SITECORE\Domain\obj\Debug\Domain.pdb
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\Domain\bin\Debug\Domain.dll.config
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\Domain\bin\Debug\Domain.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\Domain\bin\Debug\Domain.pdb
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\Domain\obj\Debug\Domain.dll
+C:\Users\Den\Desktop\ASP.NET project\ASP.NET-project\Domain\obj\Debug\Domain.pdb

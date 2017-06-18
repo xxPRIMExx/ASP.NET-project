@@ -1,0 +1,29 @@
+﻿@using Domain.Entities
+@model IEnumerable<Book>
+@{
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="/Content/bootstrap.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/myStyle.css" rel="stylesheet" />
+    <title>TakeBook</title>
+</head>
+<body>
+    <center><h1 class="head">Имеющиеся книги</h1></center>
+    <div> 
+        @foreach (var b in Model)
+        {
+            <div class="list-group" width="20"><a class="list-group-item list-group-item-warning">@b.Title</a><a href="/Home/BookHasTaken/@ViewBag.id/@b.Id">Взять</a></div>
+        }
+
+    </div>
+    
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/jquery-3.1.1.js"></script>
+</body>
+</html>

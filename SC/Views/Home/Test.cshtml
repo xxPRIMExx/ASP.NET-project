@@ -1,0 +1,22 @@
+﻿@using Domain.Entities
+@model IEnumerable<Book>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Test</title>
+</head>
+<body>
+    <div> 
+        @foreach(var b in Model)
+        {
+            <p>@b.Id, @b.Title</p>
+        }
+    </div>
+</body>
+</html>
